@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="21px" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 423 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.0997762,16.1 L20.6346577,16.1 C22.8310474,16.1 24.6297301,14.3089324 24.6297301,12.0995385 L24.6297301,4.00046151 C24.6297301,1.78449653 22.8410753,0 20.6346577,0 L4.43125422,0 C2.2348645,0 0.436181762,1.79106763 0.436181762,4.00046151 L0.436181762,12.0995385 C0.436181762,14.3155035 2.22483663,16.1 4.43125422,16.1 L13.2242002,16.1 L19.0997762,20.6807617 L19.0997762,16.1 Z" id="path-1"></path>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="MUSIC-LIST-NO-DASH" sketch:type="MSArtboardGroup" transform="translate(-1256.000000, -22.000000)">
+            <g id="Group-Copy-7" sketch:type="MSLayerGroup">
+                <g id="Rectangle-423-Copy" transform="translate(1256.000000, 22.000000)">
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" stroke="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

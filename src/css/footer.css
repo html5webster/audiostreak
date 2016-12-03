@@ -1,0 +1,15 @@
+footer {
+
+}
+
+footer h6 {
+	font-family: 'Lato';
+	text-transform: uppercase;
+}
+
+footer ul.footer-list {
+	list-style: none;	
+	padding: 0px;
+}
+
+

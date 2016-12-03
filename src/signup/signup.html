@@ -1,0 +1,23 @@
+<div class="container" id="wrap">
+<a ui-sref="todos" class="nav-link">Todos</a>
+<div class="row">
+    <div class="col-md-6 col-md-offset-3">
+        <form class="form" role="form" ng-submit="createUser()">   
+        	<legend>Sign Up</legend>
+	        <label>Gender : </label>                    
+	        <label class="radio-inline">
+	            <input type="radio" ng-model="usertype" value="1" />I Create Audio
+	        </label>
+	        <label class="radio-inline">
+	         	<input type="radio"  ng-model="usertype" value="2" />I Need Audio
+	        </label>
+    		<input type="text"  value="" ng-model="username" class="form-control input-lg" placeholder="User Name"  />
+    		<input type="password"  value="" ng-model="password" class="form-control input-lg" placeholder="Password"  />
+            <input type="text"  value="" ng-model="email" class="form-control input-lg" placeholder="Your Email"  />
+            <br />
+            <button class="btn btn-lg btn-primary btn-block signup-btn" type="submit">Join
+            </button>
+        </form>          
+    </div>
+</div>            
+</div>
